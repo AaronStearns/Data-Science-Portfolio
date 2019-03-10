@@ -7,6 +7,6 @@
 
 
 <h2>Tutorials</h2>
-[Introduction to Machine Learning Classification](https://github.com/AaronStearns/OneR-tutorial)
+Link: [Introduction to Machine Learning Classification](https://github.com/AaronStearns/OneR-tutorial).
 
 <h2>Articles</h2>
