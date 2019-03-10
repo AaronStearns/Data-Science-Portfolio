@@ -4,15 +4,12 @@
 
 
 <h2>Talks</h2>
-
+•Getting Started WIth Data Science: https://github.com/AaronStearns/gettingStartedWithDataScience/blob/master/gettingStartedWithDataScience.pdf
 
 <h2>Tutorials</h2>
-Introduction to Machine Learning Classification 
+•Introduction to Machine Learning Classification: https://github.com/AaronStearns/OneR-tutorial
 <br>
-https://github.com/AaronStearns/OneR-tutorial
-
-Regular Expressions for Data Science (Jupyter Notebook)
-<br>
-https://bit.ly/2XOcMoh  
+•Regular Expressions for Data Science (Jupyter Notebook): https://bit.ly/2XOcMoh  
 
 <h2>Articles</h2>
+•Building a kNN-powered app in Javascript: https://medium.com/p/636e80813814/edit
