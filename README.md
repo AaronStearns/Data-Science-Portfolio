@@ -7,6 +7,12 @@
 
 
 <h2>Tutorials</h2>
-Link: [Introduction to Machine Learning Classification](https://github.com/AaronStearns/OneR-tutorial).
+Introduction to Machine Learning Classification 
+<br>
+https://github.com/AaronStearns/OneR-tutorial
+
+Regular Expressions for Data Science (Jupyter Notebook)
+<br>
+https://bit.ly/2XOcMoh  
 
 <h2>Articles</h2>
