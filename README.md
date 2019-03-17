@@ -1,7 +1,7 @@
 # Data-Science-Portfolio
 <br>
 <h2>Data Cleaning/Formatting Projects</h2>
-•Web scraping project that obtains data from multiple web pages and combines it into one data frame in a single function.
+•Web scraping script that obtains data from multiple web pages and combines it into one data frame in a single function.
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Scrape_and_Combine_Data_Function.pdf
 
 
