@@ -1,4 +1,9 @@
 # Data-Science-Portfolio
+
+<br>
+<h2>Linear Algebra</h2>
+
+
 <br>
 <h2>Data Cleaning/Formatting Projects</h2>
 •Web scraping script that obtains data from multiple web pages and combines it into one data frame in a single function.
