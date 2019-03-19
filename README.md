@@ -1,9 +1,12 @@
 # Data-Science-Portfolio
+<br>
+<h2>Machine Learning/h2>
 
 <br>
 <h2>Linear Algebra</h2>
 •Solutions and code for data science-related linear algebra problems: https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra.pdf
-•Movie recommender: 
+<br>
+•Movie recommender: https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/MovieRecommender.pdf
 
 
 
