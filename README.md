@@ -2,6 +2,9 @@
 
 <br>
 <h2>Linear Algebra</h2>
+•Solutions and code for data science-related linear algebra problems: https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra.pdf
+•Movie recommender: 
+
 
 
 <br>
