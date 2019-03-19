@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 <br>
-<h2>Machine Learning/h2>
+<h2>Machine Learning</h2>
 
 <br>
 <h2>Linear Algebra</h2>
