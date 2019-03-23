@@ -29,4 +29,5 @@ https://www.kaggle.com/stearnsio/understanding-employee-attrition
 <h2>Tutorials</h2>
 •Introduction to Machine Learning Classification: https://github.com/AaronStearns/OneR-tutorial
 <br>
-•Regular Expressions for Data Science: https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Strings%2Bin%2BR.ipynb Hosted Jupyter Notebook: https://bit.ly/2XOcMoh  
+•Regular Expressions for Data Science: https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Strings_in_R.ipynb
+Hosted Jupyter Notebook: https://bit.ly/2XOcMoh  
