@@ -1,6 +1,7 @@
 # Data-Science-Portfolio
 <br>
 <h2>Machine Learning</h2>
+•Building a kNN-powered app in Javascript: https://medium.com/p/636e80813814/edit
 
 <br>
 <h2>Linear Algebra</h2>
@@ -29,6 +30,3 @@ https://www.kaggle.com/stearnsio/understanding-employee-attrition
 •Introduction to Machine Learning Classification: https://github.com/AaronStearns/OneR-tutorial
 <br>
 •Regular Expressions for Data Science: https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Strings%2Bin%2BR.ipynb Hosted Jupyter Notebook: https://bit.ly/2XOcMoh  
-
-<h2>Articles</h2>
-•Building a kNN-powered app in Javascript: https://medium.com/p/636e80813814/edit
