@@ -5,9 +5,11 @@
 
 <br>
 <h2>Linear Algebra</h2>
-•Solutions and code for data science-related linear algebra problems: https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra.pdf
-<br>
 •Movie recommender: https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/MovieRecommender.pdf
+<br>
+•Solutions and code for data science-related linear algebra problems: https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra.pdf
+
+
 
 
 
