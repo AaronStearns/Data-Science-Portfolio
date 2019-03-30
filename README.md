@@ -1,9 +1,9 @@
 # Data-Science-Portfolio
 <br>
 <h2>Machine Learning</h2>
-•Building a kNN-powered app in Javascript: 
+•Building a kNN-powered app in Javascript (article): 
 <br>
-https://medium.com/p/636e80813814/edit
+https://medium.com/p/636e80813814
 
 <br>
 <h2>Data Cleaning Projects</h2>
