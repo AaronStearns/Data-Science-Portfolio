@@ -15,7 +15,7 @@
 
 <br>
 <h2>NLP / Text Data Projects</h2>
-•Formatting and combining text message data from multiple sources and analyzing user trends.
+•Formatting and combining text message data from multiple sources and analyzing user trends. https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/fb_sms_msgs.docx
 
 •Web scraping script that obtains data from multiple web pages and combines it into one data frame in a single function.
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Scrape_and_Combine_Data_Function.pdf
