@@ -1,6 +1,9 @@
 # Data-Science-Portfolio
 <br>
 <h2>Machine Learning</h2>
+•Increasing model sensitivity using oversampling in unbalanced data
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/SMOTE_Oversampling.pdf
+<br>
 •Building a kNN-powered app in Javascript (article): 
 <br>
 https://medium.com/p/636e80813814
