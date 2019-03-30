@@ -25,6 +25,10 @@ https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Scrape_and_Co
 •Kaggle kernel for the "IBM Attrition" dataset. Includes a number of visualizations of employee attrition trends, as well as a significant amount of data manipulation with SQL-like group_by, filter, which, and join operations. 
 <br> 
 https://www.kaggle.com/stearnsio/understanding-employee-attrition
+<br>
+•Sentiment analysis on company reviews scraped from Indeed.com
+<br>
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/fidelity-sentiment-analysis.pdf
 
 <br>
 <h2>Linear Algebra</h2>
