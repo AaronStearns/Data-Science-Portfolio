@@ -1,6 +1,5 @@
 # Data-Science-Portfolio
 ### Aaron Stearns - 2019
-<br>
 <h2>Machine Learning</h2>
 •Increasing model sensitivity using oversampling in unbalanced data
 <br>
