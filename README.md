@@ -22,7 +22,7 @@ https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Scrape_and_Co
 
 <br>
 <h2>Data Exploration/Visualization Projects</h2>
-•Kaggle kernel for the "IBM Attrition" dataset. Includes a number of visualizations of employee attrition trends, as well as a significant amount of data manipulation with SQL-like group_by, filter, which, and join operations. 
+•Kaggle kernel for the "IBM Attrition" dataset. Includes a number of visualizations of employee attrition trends, as well as a significant amount of data manipulation with SQL-like group_by, filter, where, and join operations. 
 <br> 
 https://www.kaggle.com/stearnsio/understanding-employee-attrition
 <br>
