@@ -40,10 +40,17 @@ https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/MovieRecommen
 <br>
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra.pdf
 
+<br>
+<h2>A/B Testing</h2>
+•Chi-square test on user conversion rates: 
+<br>
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/chi-square-kaggle.pdf
 
+<br>
 <h2>Talks</h2>
 •Getting Started WIth Data Science: https://github.com/AaronStearns/gettingStartedWithDataScience/blob/master/gettingStartedWithDataScience.pdf
 
+<br>
 <h2>Tutorials</h2>
 •Introduction to Machine Learning Classification: 
 <br>
