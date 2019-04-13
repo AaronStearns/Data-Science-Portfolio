@@ -45,6 +45,10 @@ https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra
 •Chi-square test on user conversion rates: 
 <br>
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/chi-square-kaggle.pdf
+<br>
+•Paired (dependent) t-test on student test scores: 
+<br>
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/t-tests.pdf
 
 <br>
 <h2>Talks</h2>
