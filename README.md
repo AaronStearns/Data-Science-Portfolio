@@ -41,7 +41,7 @@ https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/MovieRecommen
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra.pdf
 
 <br>
-<h2>A/B Testing</h2>
+<h2>Stats</h2>
 •Chi-square test on user conversion rates: 
 <br>
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/chi-square-kaggle.pdf
