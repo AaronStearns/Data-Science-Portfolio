@@ -10,17 +10,6 @@ https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/SMOTE_Oversam
 https://medium.com/p/636e80813814
 
 <br>
-<h2>Data Cleaning</h2>
-•Formatting and combining text message data from multiple sources and analyzing user trends.
-<br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/fb_sms_msgs.docx
-<br>
-•Web scraping script that obtains data from multiple web pages and combines it into one data frame in a single function.
-<br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Scrape_and_Combine_Data_Function.pdf
-
-
-<br>
 <h2>Data Exploration/Visualization</h2>
 •Kaggle kernel for the "IBM Attrition" dataset. Includes a number of visualizations of employee attrition trends, as well as a significant amount of data manipulation with SQL-like group_by, filter, where, and join operations. 
 <br> 
@@ -29,6 +18,16 @@ https://www.kaggle.com/stearnsio/understanding-employee-attrition
 •Sentiment analysis on company reviews scraped from Indeed.com
 <br>
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/fidelity-sentiment-analysis.pdf
+
+<br>
+<h2>Data Cleaning</h2>
+•Formatting and combining text message data from multiple sources and analyzing user trends.
+<br>
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/fb_sms_msgs.docx
+<br>
+•Web scraping script that obtains data from multiple web pages and combines it into one data frame in a single function.
+<br>
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Scrape_and_Combine_Data_Function.pdf
 
 <br>
 <h2>Linear Algebra</h2>
