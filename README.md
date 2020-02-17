@@ -48,10 +48,9 @@ https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/chi-square-ka
 <br>
 •Paired (dependent) t-test on student test scores: 
 <br>
-<br>
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/t-tests.pdf
 <br>
-•Solutions and code for linear algebra problems: 
 <br>
+•Solutions and code for linear algebra problems: 
 <br>
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra.pdf
