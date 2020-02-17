@@ -1,17 +1,24 @@
 # Data Science Portfolio
 ## Aaron Stearns 
 <h2>Projects</h2>
-•Wearable Device Data Analysis (timeseries):
+•Wearable Device Data Analysis:
+A project using R Markdown to clean, format, create new features, and analyze a wearable device dataset.
 <br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/WearableDeviceDataAnalysis.html
+https://rpubs.com/A_Stearns/575461
 <br>
-•Building a full-stack app that incorporates machine learning (article): 
+•Building a full-stack app that incorporates machine learning: 
+A project that uses React.js and Node.js to demonstrate how ML can be incorporated in web apps.
 <br>
 https://medium.com/p/636e80813814
 <br>
-•Kaggle data analysis titled "What Makes A Movie Profitable?"
+•Data analysis titled "What Makes A Movie Profitable?"
+A Kaggle kernel using the "Box Office Prediction" dataset to uncover trends in movie profitability.
 <br> 
 https://www.kaggle.com/stearnsio/what-makes-a-movie-profitable
+
+<br>
+<h2>Python Scripts</h2>
+
 
 <br>
 <h2>Talks and Tutorials</h2>
@@ -24,9 +31,6 @@ https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Strings_in_R.
 •Introduction to Machine Learning Classification: 
 <br>
 https://github.com/AaronStearns/OneR-tutorial
-
-<br>
-<h2>Python Scripts</h2>
 
 
 <br>
