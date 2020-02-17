@@ -1,46 +1,36 @@
 # Data Science Portfolio
-## Aaron Stearns - 2019
-<h2>Machine Learning</h2>
-•Increasing model sensitivity using oversampling in unbalanced data
+## Aaron Stearns 
+<h2>Projects</h2>
+•Wearable Device Data Analysis (timeseries):
 <br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/SMOTE_Oversampling.pdf
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/WearableDeviceDataAnalysis.html
 <br>
-•Building a kNN-powered app in Javascript (article): 
+•Building a full-stack app that incorporates machine learning (article): 
 <br>
 https://medium.com/p/636e80813814
-
 <br>
-<h2>Data Exploration/Visualization</h2>
-•Kaggle kernel for the "IBM Attrition" dataset. Includes a number of visualizations of employee attrition trends, as well as a significant amount of data manipulation with SQL-like group_by, filter, where, and join operations. 
+•Kaggle data analysis titled "What Makes A Movie Profitable?"
 <br> 
-https://www.kaggle.com/stearnsio/understanding-employee-attrition
-<br>
-•Sentiment analysis on company reviews scraped from Indeed.com
-<br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/fidelity-sentiment-analysis.pdf
+https://www.kaggle.com/stearnsio/what-makes-a-movie-profitable
 
 <br>
-<h2>Data Cleaning</h2>
-•Formatting and combining text message data from multiple sources and analyzing user trends.
+<h2>Talks and Tutorials</h2>
+•Regular Expressions in R: 
 <br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/fb_sms_msgs.docx
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Strings_in_R.ipynb Hosted Jupyter Notebook: https://bit.ly/2XOcMoh  
 <br>
-•Web scraping script that obtains data from multiple web pages and combines it into one data frame in a single function.
+•Getting Started WIth Data Science: https://github.com/AaronStearns/gettingStartedWithDataScience/blob/master/gettingStartedWithDataScience.pdf
 <br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Scrape_and_Combine_Data_Function.pdf
+•Introduction to Machine Learning Classification: 
+<br>
+https://github.com/AaronStearns/OneR-tutorial
 
 <br>
-<h2>Linear Algebra</h2>
-•Movie recommender: 
-<br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/MovieRecommender.pdf
-<br>
-•Solutions and code for data science-related linear algebra problems: 
-<br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra.pdf
+<h2>Python Scripts</h2>
+
 
 <br>
-<h2>Stats</h2>
+<h2>Stats and Linear Algebra</h2>
 •Chi-square test on user conversion rates: 
 <br>
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/chi-square-kaggle.pdf
@@ -48,17 +38,7 @@ https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/chi-square-ka
 •Paired (dependent) t-test on student test scores: 
 <br>
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/t-tests.pdf
-
 <br>
-<h2>Talks</h2>
-•Getting Started WIth Data Science: https://github.com/AaronStearns/gettingStartedWithDataScience/blob/master/gettingStartedWithDataScience.pdf
-
+•Solutions and code for data science-related linear algebra problems: 
 <br>
-<h2>Tutorials</h2>
-•Introduction to Machine Learning Classification: 
-<br>
-https://github.com/AaronStearns/OneR-tutorial
-<br>
-•Regular Expressions for Data Science: 
-<br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Strings_in_R.ipynb Hosted Jupyter Notebook: https://bit.ly/2XOcMoh  
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra.pdf
