@@ -2,29 +2,35 @@
 ## Aaron Stearns 
 <h2>Projects</h2>
 •Wearable Device Data Analysis:
+<br>
 A project using R Markdown to clean, format, create new features, and analyze a wearable device dataset.
 <br>
 https://rpubs.com/A_Stearns/575461
 <br>
 •Building a full-stack app that incorporates machine learning: 
+<br>
 A project that uses React.js and Node.js to demonstrate how ML can be incorporated in web apps.
 <br>
 https://medium.com/p/636e80813814
 <br>
-•Data analysis titled "What Makes A Movie Profitable?"
+•Data analysis titled "What Makes A Movie Profitable?":
+<br>
 A Kaggle kernel using the "Box Office Prediction" dataset to uncover trends in movie profitability.
 <br> 
 https://www.kaggle.com/stearnsio/what-makes-a-movie-profitable
 
 <br>
 <h2>Python Scripts</h2>
-
+•Slack Message Aggregator: 
+<br>
+A script to combine all JSON files in a given folder into a single dataframe and export it as a .csv
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/slackMessageAggregator.py
 
 <br>
 <h2>Talks and Tutorials</h2>
 •Regular Expressions in R: 
 <br>
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Strings_in_R.ipynb Hosted Jupyter Notebook: https://bit.ly/2XOcMoh  
+https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/Strings_in_R.ipynb Hosted Jupyter Notebook (refresh link if doesn't load): https://bit.ly/2XOcMoh  
 <br>
 •Getting Started WIth Data Science: https://github.com/AaronStearns/gettingStartedWithDataScience/blob/master/gettingStartedWithDataScience.pdf
 <br>
@@ -43,6 +49,6 @@ https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/chi-square-ka
 <br>
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/t-tests.pdf
 <br>
-•Solutions and code for data science-related linear algebra problems: 
+•Solutions and code for linear algebra problems: 
 <br>
 https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/LinearAlgebra.pdf
