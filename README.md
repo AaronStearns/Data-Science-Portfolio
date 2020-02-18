@@ -14,6 +14,11 @@ https://medium.com/p/636e80813814
 •Data analysis titled "What Makes A Movie Profitable?": A Kaggle kernel using the "Box Office Prediction" dataset to uncover trends in movie profitability.
 <br> 
 https://www.kaggle.com/stearnsio/what-makes-a-movie-profitable
+<br>
+<br>
+•RShiny application using interactive Plot.ly visualizations:
+<br>
+https://stearns.shinyapps.io/rajiv_corp/
 
 <br>
 <h2>Python Scripts</h2>
