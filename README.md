@@ -19,12 +19,6 @@ https://www.kaggle.com/stearnsio/what-makes-a-movie-profitable
 •RShiny application using interactive Plot.ly visualizations:
 <br>
 https://stearns.shinyapps.io/rajiv_corp/
-
-<br>
-<h2>Python Scripts</h2>
-•Slack Message Aggregator: A script to combine all JSON files in a given folder into a single dataframe and export it as a .csv file. 
-https://github.com/AaronStearns/Data-Science-Portfolio/blob/master/slackMessageAggregator.py
-
 <br>
 <h2>Talks and Tutorials</h2>
 •Regular Expressions in R: 
